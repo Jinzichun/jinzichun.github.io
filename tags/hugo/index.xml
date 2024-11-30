@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Jinzi&#39;Log</title>
-    <link>https://jinzichun.github.io/posts/</link>
-    <description>Recent content in Posts on Jinzi&#39;Log</description>
+    <title>Hugo on Jinzi&#39;Log</title>
+    <link>https://jinzichun.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Jinzi&#39;Log</description>
     <image>
       <title>Jinzi&#39;Log</title>
       <url>https://jinzichun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 30 Nov 2024 23:13:10 +0800</lastBuildDate>
-    <atom:link href="https://jinzichun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jinzichun.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
       <link>https://jinzichun.github.io/posts/-/</link>
       <pubDate>Sat, 30 Nov 2024 23:13:10 +0800</pubDate>
       <guid>https://jinzichun.github.io/posts/-/</guid>
       <description>Hugo Blog Push✨</description>
-    </item>
-    <item>
-      <title>Python For PDF</title>
-      <link>https://jinzichun.github.io/posts/python-pdf/</link>
-      <pubDate>Sat, 30 Nov 2024 22:43:57 +0800</pubDate>
-      <guid>https://jinzichun.github.io/posts/python-pdf/</guid>
-      <description>Store some general Python code for handling PDFs.😄</description>
     </item>
   </channel>
 </rss>
