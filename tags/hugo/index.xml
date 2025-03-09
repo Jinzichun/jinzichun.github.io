@@ -14,11 +14,11 @@
     <lastBuildDate>Sat, 30 Nov 2024 23:13:10 +0800</lastBuildDate>
     <atom:link href="https://jinzichun.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
+      <title>Hugo博客部署指南</title>
       <link>https://jinzichun.github.io/posts/hugo-s/</link>
       <pubDate>Sat, 30 Nov 2024 23:13:10 +0800</pubDate>
       <guid>https://jinzichun.github.io/posts/hugo-s/</guid>
-      <description>Hugo Blog Push✨</description>
+      <description>详细介绍如何使用Hugo搭建和部署个人技术博客✨</description>
     </item>
   </channel>
 </rss>

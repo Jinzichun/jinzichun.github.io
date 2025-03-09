@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Jinzi&#39;Log</title>
-    <link>https://jinzichun.github.io/</link>
-    <description>Recent content on Jinzi&#39;Log</description>
+    <title>博客搭建 on Jinzi&#39;Log</title>
+    <link>https://jinzichun.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+    <description>Recent content in 博客搭建 on Jinzi&#39;Log</description>
     <image>
       <title>Jinzi&#39;Log</title>
       <url>https://jinzichun.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,27 +12,13 @@
     <generator>Hugo -- 0.139.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 30 Nov 2024 23:13:10 +0800</lastBuildDate>
-    <atom:link href="https://jinzichun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jinzichun.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo博客部署指南</title>
       <link>https://jinzichun.github.io/posts/hugo-s/</link>
       <pubDate>Sat, 30 Nov 2024 23:13:10 +0800</pubDate>
       <guid>https://jinzichun.github.io/posts/hugo-s/</guid>
       <description>详细介绍如何使用Hugo搭建和部署个人技术博客✨</description>
-    </item>
-    <item>
-      <title>Python PDF文件处理指南</title>
-      <link>https://jinzichun.github.io/posts/python-pdf/</link>
-      <pubDate>Sat, 30 Nov 2024 22:43:57 +0800</pubDate>
-      <guid>https://jinzichun.github.io/posts/python-pdf/</guid>
-      <description>使用Python处理PDF文件的实用指南，包含背景移除等实用功能✨</description>
-    </item>
-    <item>
-      <title>算法刷题笔记</title>
-      <link>https://jinzichun.github.io/posts/algorithm-notes/</link>
-      <pubDate>Sun, 07 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>https://jinzichun.github.io/posts/algorithm-notes/</guid>
-      <description>记录算法刷题的心得与总结</description>
     </item>
   </channel>
 </rss>

@@ -14,18 +14,25 @@
     <lastBuildDate>Sat, 30 Nov 2024 23:13:10 +0800</lastBuildDate>
     <atom:link href="https://jinzichun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
+      <title>Hugo博客部署指南</title>
       <link>https://jinzichun.github.io/posts/hugo-s/</link>
       <pubDate>Sat, 30 Nov 2024 23:13:10 +0800</pubDate>
       <guid>https://jinzichun.github.io/posts/hugo-s/</guid>
-      <description>Hugo Blog Push✨</description>
+      <description>详细介绍如何使用Hugo搭建和部署个人技术博客✨</description>
     </item>
     <item>
-      <title>Python For PDF</title>
+      <title>Python PDF文件处理指南</title>
       <link>https://jinzichun.github.io/posts/python-pdf/</link>
       <pubDate>Sat, 30 Nov 2024 22:43:57 +0800</pubDate>
       <guid>https://jinzichun.github.io/posts/python-pdf/</guid>
-      <description>Store some general Python code for handling PDFs.😄</description>
+      <description>使用Python处理PDF文件的实用指南，包含背景移除等实用功能✨</description>
+    </item>
+    <item>
+      <title>算法刷题笔记</title>
+      <link>https://jinzichun.github.io/posts/algorithm-notes/</link>
+      <pubDate>Sun, 07 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>https://jinzichun.github.io/posts/algorithm-notes/</guid>
+      <description>记录算法刷题的心得与总结</description>
     </item>
   </channel>
 </rss>
